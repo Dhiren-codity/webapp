@@ -1,2 +1,2 @@
 # webapp
-My simple web app with docker
+My simple web app with frontend, backend and docker setup
